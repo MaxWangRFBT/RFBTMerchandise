@@ -11,237 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9edc80cf-9f24-4651-a1de-c2a13c093c54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/RFBTMerchandise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/OwlCarousel2-2.3.4.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/SlickNav-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/bootstrap-4.4.1-dist.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/font-awesome-4.7.0.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/jquery-nice-select-1.1.0.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/jquery-ui-1.12.1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/sass.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/elegant-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/nice-select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/slicknav.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/equipment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flavor-jelly.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flavor-powder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flavor-syrup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flavor-tea.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ElegantIcons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ElegantIcons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ElegantIcons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ElegantIcons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/RealFruitLogo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/RealFruitLogo2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/banner/banner-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/banner/banner-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/banner/milkeTea.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/banner/toppings.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/beradcrum3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/blog-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/blog-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/blog-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/blog-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/blog-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/blog-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/details/Creativity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/details/IMG_7411.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/details/details-author.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/details/details-hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/details/details-pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/logo-bentall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/logo-cf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/logo-first.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/logo-gwl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/logo-ivan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/logo-mor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/logo-ox.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/logo-rio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/logo-smart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/sidebar/BLACKTEALEAVES-70.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/sidebar/lychee_jelly-70.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/sidebar/sr-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/sidebar/sr-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/sidebar/sr-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/sidebar/white_tapioca-70.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/breadcrumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/canada.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cart/cart-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cart/cart-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cart/cart-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/categories/cat-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/categories/cat-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/categories/cat-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/categories/cat-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/categories/cat-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/featured/feature-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/featured/feature-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/featured/feature-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/featured/feature-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/featured/feature-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/featured/feature-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/featured/feature-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/featured/feature-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/foottopimage.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hero/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hero/teagarnd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/4110-228x228.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/ASAMBLACKTEA-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/BLACKTEALEAVES-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/F208 coffee powder-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/F208coffeepowder-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/GREENTEALEAVES-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/Pomegranatre syrup-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/ProtinePowder-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/TetleyGreenTeaPure-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/TetleyTeaOrange-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/almond_powder-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/aloe_vera_jelly-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/black_sugar_tapioca2-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/coconut_powder-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/creamer-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/grape_syrup-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/grass_jelly_powder-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/green_apple_jelly-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/green_apple_syrup-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/honey_syrup1-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/jasminegreentea-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/lychee_jelly-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/lycheesyrup-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/mango_jelly-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/matcha_green_tea-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/passion_fruit_syrup-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/peach_syrup-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/taro_powder-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/itemimage/white_tapioca-228x228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/language.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/latest-product/ASAMBLACKTEA-110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/latest-product/GREENTEALEAVES-110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/latest-product/aloe_vera_jelly-110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/latest-product/black_sugar_tapioca110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/latest-product/creamer-110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/latest-product/jasminegreentea-110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/latest-product/lp-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/latest-product/lp-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/latest-product/lp-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/latest-product/lychee_jelly-110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/latest-product/mango_jelly-110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/latest-product/matcha_green_tea-110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/latest-product/rainbow.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/latest-product/taro_powder-110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/latest-product/white_tapioca-110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/leaf-r.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/payment-item.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pick-up.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/ASAMBLACKTEA-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/BLACKTEALEAVES-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/BeREAL.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/Greentea-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/LARGE-STRAWS-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/Largecup-270.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/Lid-1000cc-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/Pomegranatresyrup-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/ProtinePowder-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/SMALL_STRAWS-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/TEA_MACHINE-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/almond_powder-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/aloe_vera_jelly-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/auto_machine-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/blacksugartapioca270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/coconut_powder-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/coffeepowder-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/commingsoon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/details/product-details-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/details/product-details-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/details/product-details-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/details/product-details-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/details/product-details-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/details/thumb-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/details/thumb-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/details/thumb-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/details/thumb-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/discount/pd-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/discount/pd-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/discount/pd-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/discount/pd-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/discount/pd-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/discount/pd-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/grape_syrup-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/grass_jelly_powder-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/green_apple_syrup-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/greenapplejelly-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/honey_syrup1-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/jasminegreentea-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/lychee_jelly-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/lycheesyrup-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/mango_jelly-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/matcha_green_tea-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/midcup-270.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/milkpowder-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/paper_straws-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/passion_fruit_syrup-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/peach_syrup-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/plastic_sealing_film-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/rainbowjelly-270.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/smallcup-270.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/taro_powder-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product/white_tapioca-270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/teagarnd100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/teamountain.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/time.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.nice-select.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.slicknav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/mixitup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_blog-details.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_blog-sidebar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_blog.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_checkout.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_hero.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_home-page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_responsive.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_shop-details.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_shop-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_shoping-cart.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_sidebar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_variable.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-grid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoping-cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/RealFruitLogo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/equipment.html" beforeDir="false" afterPath="$PROJECT_DIR$/equipment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flavor-jelly.html" beforeDir="false" afterPath="$PROJECT_DIR$/flavor-jelly.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flavor-powder.html" beforeDir="false" afterPath="$PROJECT_DIR$/flavor-powder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flavor-syrup.html" beforeDir="false" afterPath="$PROJECT_DIR$/flavor-syrup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flavor-tea.html" beforeDir="false" afterPath="$PROJECT_DIR$/flavor-tea.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop-grid.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,6 +43,13 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -273,6 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1597865724540</updated>
       <workItem from="1597865732212" duration="180000" />
+      <workItem from="1597866062184" duration="428000" />
+      <workItem from="1597867009037" duration="7196000" />
     </task>
     <servers />
   </component>
@@ -289,8 +78,19 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1336" y="27" width="1016" height="944" key="dock-window-1" timestamp="1597932580680">
+      <screen x="1280" y="23" width="1680" height="1027" />
+    </state>
+    <state x="1336" y="27" width="1016" height="944" key="dock-window-1/0.23.1280.728/1280.23.1680.1027@0.23.1280.728" timestamp="1597932580680" />
+    <state x="305" y="76" width="670" height="676" key="search.everywhere.popup" timestamp="1597933199977">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="305" y="76" width="670" height="676" key="search.everywhere.popup/0.23.1280.729/1280.23.1680.1027@0.23.1280.729" timestamp="1597933199977" />
   </component>
 </project>
