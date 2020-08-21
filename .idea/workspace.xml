@@ -11,17 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9edc80cf-9f24-4651-a1de-c2a13c093c54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/RealFruitLogo2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/equipment.html" beforeDir="false" afterPath="$PROJECT_DIR$/equipment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flavor-jelly.html" beforeDir="false" afterPath="$PROJECT_DIR$/flavor-jelly.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flavor-powder.html" beforeDir="false" afterPath="$PROJECT_DIR$/flavor-powder.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flavor-syrup.html" beforeDir="false" afterPath="$PROJECT_DIR$/flavor-syrup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flavor-tea.html" beforeDir="false" afterPath="$PROJECT_DIR$/flavor-tea.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop-grid.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +53,7 @@
       <updated>1597865724540</updated>
       <workItem from="1597865732212" duration="180000" />
       <workItem from="1597866062184" duration="428000" />
-      <workItem from="1597867009037" duration="7196000" />
+      <workItem from="1597867009037" duration="9410000" />
     </task>
     <servers />
   </component>
@@ -84,10 +76,11 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1336" y="27" width="1016" height="944" key="dock-window-1" timestamp="1597932580680">
+    <state x="1336" y="27" width="1016" height="944" key="dock-window-1" timestamp="1598016522812">
       <screen x="1280" y="23" width="1680" height="1027" />
     </state>
     <state x="1336" y="27" width="1016" height="944" key="dock-window-1/0.23.1280.728/1280.23.1680.1027@0.23.1280.728" timestamp="1597932580680" />
+    <state x="1336" y="27" width="1016" height="944" key="dock-window-1/0.23.1280.729/1280.23.1680.1027@0.23.1280.729" timestamp="1598016522797" />
     <state x="305" y="76" width="670" height="676" key="search.everywhere.popup" timestamp="1597933199977">
       <screen x="0" y="23" width="1280" height="729" />
     </state>
