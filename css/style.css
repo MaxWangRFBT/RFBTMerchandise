@@ -784,7 +784,7 @@ ol {
 	left: 0;
 	width: 100%;
 	padding: 0 20px;
-	bottom: 20px;
+	bottom: 5px;
 	text-align: center;
 }
 
@@ -816,6 +816,7 @@ ol {
 	top: 50%;
 	-webkit-transform: translateY(-35px);
 	background: #ffffff;
+
 }
 
 .categories__slider.owl-carousel .owl-nav button.owl-next {
