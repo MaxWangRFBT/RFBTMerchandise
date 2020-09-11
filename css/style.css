@@ -742,8 +742,8 @@ ol {
 }
 
 .hero__text h2 {
-	font-size: 46px;
-	color: #252525;
+	font-size: 50px;
+	color: #ff3333;
 	line-height: 52px;
 	font-weight: 700;
 	margin: 10px 0;
@@ -752,6 +752,13 @@ ol {
 .hero__text h3 {
 	font-size: 15px;
 	color: #252525;
+	line-height: 52px;
+	font-weight: 700;
+	margin: 10px 0;
+}
+.hero__text h4 {
+	font-size: 40px;
+	color: rgb(255, 255, 204);
 	line-height: 52px;
 	font-weight: 700;
 	margin: 10px 0;
