@@ -12,14 +12,11 @@
   <component name="ChangeListManager">
     <list default="true" id="9edc80cf-9f24-4651-a1de-c2a13c093c54" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/equipment.html" beforeDir="false" afterPath="$PROJECT_DIR$/equipment.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flavor-jelly.html" beforeDir="false" afterPath="$PROJECT_DIR$/flavor-jelly.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flavor-powder.html" beforeDir="false" afterPath="$PROJECT_DIR$/flavor-powder.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flavor-syrup.html" beforeDir="false" afterPath="$PROJECT_DIR$/flavor-syrup.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flavor-tea.html" beforeDir="false" afterPath="$PROJECT_DIR$/flavor-tea.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop-grid.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +65,8 @@
       <workItem from="1599578905301" duration="20634000" />
       <workItem from="1600039528890" duration="1019000" />
       <workItem from="1600178468951" duration="585000" />
-      <workItem from="1600960631496" duration="109000" />
+      <workItem from="1600960631496" duration="580000" />
+      <workItem from="1623429487635" duration="1055000" />
     </task>
     <servers />
   </component>
